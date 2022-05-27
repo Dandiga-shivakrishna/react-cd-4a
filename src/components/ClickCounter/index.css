@@ -1,0 +1,17 @@
+.container {
+  background-color: #f1f5f8;
+  height: 100vh;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.span-style {
+  color: #c20a72;
+}
+.count {
+  color: #2d3a35;
+}
+.paragraph {
+  color: #2d3a35;
+}
